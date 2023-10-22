@@ -1,0 +1,7 @@
+Useful link
+1.http://www.keyboard-layout-editor.com/
+2.https://kbfirmware.com/
+3.https://qmk.fm/
+4.https://www.tinkercad.com/
+5.https://github.com/qmk/qmk_toolbox
+

@@ -1,0 +1,12 @@
+Component
+Switch
+Key caps
+Stabilizer
+3d printed plate
+3d printed case
+Development board(Arduino pro micro type c)
+Diod-1N4148
+wire
+
+
+
